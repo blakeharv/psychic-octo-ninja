@@ -1,4 +1,4 @@
-psychic-octo-ninja
+Psychic-Octo-Ninja
 ==================
 
 Blake's Blog Posts
