@@ -1,5 +1,11 @@
 # LINK DUMP
 
+### Packages for Sublime
+* themes - https://github.com/daylerees/colour-schemes
+* css color syntax and completion - https://github.com/nathos/sass-textmate-bundle
+* sweet completion, lorem ipsum, etc. - https://github.com/sergeche/emmet-sublime  
+  watch a emmet demo here - http://emmet.io/
+* http://hiltmon.com/blog/2012/08/14/my-sublime-text-2-setup/
 
 ### Cool Ruby Stuff
 * http://rubular.com/
