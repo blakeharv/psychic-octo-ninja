@@ -16,6 +16,9 @@
 "Only the good die young"  
 — Billy Joel  
 
+"Ain't no rest for the wicked, Money don't grow on trees"  
+— Cage the Elephant
+
 "The unreal is more powerful than the real, because nothing is as perfect as you can imagine it. because its only intangible ideas, concepts, beliefs, fantasies that last. stone crumbles. wood rots. people, well, they die. but things as fragile as a thought, a dream, a legend, they can go on and on."  
 — Chuck Palahniuk
 
