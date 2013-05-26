@@ -31,3 +31,7 @@ The abolition of religion as the illusory happiness of the people is the demand 
 
 Criticism has plucked the imaginary flowers on the chain not in order that man shall continue to bear that chain without fantasy or consolation, but so that he shall throw off the chain and pluck the living flower."  
 — Marx
+
+
+"Anyone who can appease a man's conscience can take his freedom away from him."  
+— The Grand Inquisitor, The Brothers Karamazov
