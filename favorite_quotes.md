@@ -34,4 +34,4 @@ Criticism has plucked the imaginary flowers on the chain not in order that man s
 
 
 "Anyone who can appease a man's conscience can take his freedom away from him."  
-— The Grand Inquisitor, The Brothers Karamazov
+— The Grand Inquisitor from 'The Brothers Karamazov'
