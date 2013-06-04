@@ -45,7 +45,11 @@ git commit --amend
  
 # Revert commit but keep files staged
 git reset --soft HEAD^
- 
+
+# Article on squashing commits:
+# http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
+
+
 # Unstage staged files
 git reset
  
