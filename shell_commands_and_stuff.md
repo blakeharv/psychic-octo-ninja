@@ -6,7 +6,7 @@ sudo lsof -i -P | grep -i "listen"
 kill -9 21580 # The process' number
 
 # Open hosts file
- sudo nano /private/etc/hosts
+sudo nano /private/etc/hosts
 
 # Copy Public Key
 pbcopy < ~/.ssh/id_rsa.pub
