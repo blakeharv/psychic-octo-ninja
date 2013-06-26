@@ -16,8 +16,11 @@
 "Only the good die young"  
 — Billy Joel  
 
-"Ain't no rest for the wicked, Money don't grow on trees"  
-— Cage the Elephant
+"My determination is just desire. I know that I’m not the best fighter in the world, I may not even be the toughest fighter. One thing I do know is, I want it more than anything else."  
+— Matt Brown  
+
+"There are two men inside the artist: poet and craftsman. One is born a poet. One becomes a craftsman."  
+— Emile Zola  
 
 "The unreal is more powerful than the real, because nothing is as perfect as you can imagine it. because its only intangible ideas, concepts, beliefs, fantasies that last. stone crumbles. wood rots. people, well, they die. but things as fragile as a thought, a dream, a legend, they can go on and on."  
 — Chuck Palahniuk
