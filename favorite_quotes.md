@@ -1,20 +1,9 @@
 #Favorite Quotes
 
+### Art & Creativity
+
 "What I do is me, for that I came."  
-— Gerard Manley Hopkins
-
-"How can there ever be a heaven when so many happy, good things make us hurt so very much?"  
-— Blake Harvey
-
-
-"Sauron's malice may have all sorts of awesome external effects — ghoulish ringwraiths, clouds of ash, skies of dark-winged ravens — but the true extent of his evil lies in the heart of every man."  
-— Ishaan Tharoor
-
-"Carry on my wayward son"  
-— Kansas
-
-"Only the good die young"  
-— Billy Joel  
+— Gerard Manley Hopkins  
 
 "My determination is just desire. I know that I’m not the best fighter in the world, I may not even be the toughest fighter. One thing I do know is, I want it more than anything else."  
 — Matt Brown  
@@ -24,6 +13,23 @@
 
 "Without good taste you cannot make good food."  
 — Jiro Ono
+
+"I just think things should work properly"  
+— Dyson  
+
+### Spiritual
+
+"How can there ever be a heaven when so many happy, good things make us hurt so very much?"  
+— Blake Harvey  
+
+"Sauron's malice may have all sorts of awesome external effects — ghoulish ringwraiths, clouds of ash, skies of dark-winged ravens — but the true extent of his evil lies in the heart of every man."  
+— Ishaan Tharoor  
+
+"Carry on my wayward son"  
+— Kansas  
+
+"Only the good die young"  
+— Billy Joel  
 
 "The unreal is more powerful than the real, because nothing is as perfect as you can imagine it. because its only intangible ideas, concepts, beliefs, fantasies that last. stone crumbles. wood rots. people, well, they die. but things as fragile as a thought, a dream, a legend, they can go on and on."  
 — Chuck Palahniuk
