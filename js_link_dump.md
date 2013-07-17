@@ -1,3 +1,7 @@
+### Blake's Fiddles
+* http://jsfiddle.net/user/bharvey/fiddles/
+
+
 ### FB Async loading issues
 * http://pivotallabs.com/working-with-asynchronously-loaded-javascript/
 * http://pivotallabs.com/tag/javascript/
