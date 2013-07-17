@@ -5,6 +5,7 @@
 ### JS routing & namespacing
 * http://docs.jquery.com/Plugins/Authoring
 * http://backbonetutorials.com/what-is-a-router/
+* http://www.kevlindev.com/tutorials/javascript/inheritance/index.htm
 * http://addyosmani.com/blog/essential-js-namespacing/
 * http://api.jquery.com/jQuery.extend/
 * http://viget.com/inspire/extending-paul-irishs-comprehensive-dom-ready-execution
