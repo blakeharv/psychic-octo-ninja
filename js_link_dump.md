@@ -10,6 +10,7 @@
 * http://api.jquery.com/jQuery.extend/
 * http://viget.com/inspire/extending-paul-irishs-comprehensive-dom-ready-execution
 * http://paulirish.com/2009/markup-based-unobtrusive-comprehensive-dom-ready-execution/
+* http://enterprisejquery.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/
 
 ### Unit Testing with Jasmine + Jenkins
 * http://www.zendesk.com/blog/javascript-loves-ci
