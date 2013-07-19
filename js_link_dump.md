@@ -1,4 +1,7 @@
 * http://pivotallabs.com/tag/javascript/
+* http://benalman.com/news/2010/11/immediately-invoked-function-expression/
+* http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+* http://stackoverflow.com/questions/11246/best-resources-to-learn-javascript
 
 
 ### Blake's Fiddles
