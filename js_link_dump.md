@@ -5,6 +5,11 @@
 * http://stackoverflow.com/questions/11246/best-resources-to-learn-javascript
 
 
+### JS Hashes (Associative Arrays)
+* http://hashes.com/JS/Hash.php
+* http://www.quirksmode.org/js/associative.html
+* http://www.caveofprogramming.com/javascript-2/javascript-in-using-the-in-operator-to-iterate-through-arrays-and-objects/
+
 ### Blake's Fiddles
 * http://jsfiddle.net/user/bharvey/fiddles/
 
