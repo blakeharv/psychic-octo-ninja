@@ -1,4 +1,4 @@
-* http://stackoverflow.com/questions/4234619/how-to-avoid-long-nesting-of-asynchronous-functions-in-node-js
+
 * http://pivotallabs.com/tag/javascript/
 * http://benalman.com/news/2010/11/immediately-invoked-function-expression/
 * http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
@@ -14,7 +14,8 @@
 * http://jsfiddle.net/user/bharvey/fiddles/
 
 
-### FB Async loading issues
+### Async loading Stuff (like for FB)
+* http://stackoverflow.com/questions/4234619/how-to-avoid-long-nesting-of-asynchronous-functions-in-node-js
 * http://pivotallabs.com/working-with-asynchronously-loaded-javascript/
 * http://pivotallabs.com/tag/javascript/
 
