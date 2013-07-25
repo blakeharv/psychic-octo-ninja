@@ -1,8 +1,9 @@
-
 * http://pivotallabs.com/tag/javascript/
 * http://benalman.com/news/2010/11/immediately-invoked-function-expression/
 * http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
 * http://stackoverflow.com/questions/11246/best-resources-to-learn-javascript
+* Getters and Setters - http://ejohn.org/blog/javascript-getters-and-setters/
+* http://bonsaiden.github.io/JavaScript-Garden/
 
 
 ### JS Hashes (Associative Arrays)
@@ -18,6 +19,7 @@
 * http://stackoverflow.com/questions/4234619/how-to-avoid-long-nesting-of-asynchronous-functions-in-node-js
 * http://pivotallabs.com/working-with-asynchronously-loaded-javascript/
 * http://pivotallabs.com/tag/javascript/
+* Working with .NET Rest APIs - http://msdn.microsoft.com/en-us/library/gg328025.aspx
 
 ### JS routing & namespacing
 * http://docs.jquery.com/Plugins/Authoring
