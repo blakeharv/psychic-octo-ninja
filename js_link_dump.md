@@ -1,3 +1,4 @@
+* Thread on deep copying: https://github.com/jashkenas/underscore/issues/162
 * http://pivotallabs.com/tag/javascript/
 * http://benalman.com/news/2010/11/immediately-invoked-function-expression/
 * http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
