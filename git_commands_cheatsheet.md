@@ -4,7 +4,14 @@
 # Public Key Stuff
 pbcopy < ~/.ssh/id_rsa.pub # copy pub key to clipboard
 ssh-add ~/.ssh/id_rsa      # copy pub key to current folder
- 
+
+# Set your name
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+# Turn colors on
+git config --global color.ui true
+
 # Checking out and Creating New Branches
 # Step 1
 git checkout master        # change head to master
