@@ -30,7 +30,13 @@ git push production development:master
  
 # Rename a branch
 git branch -m old_branch new_branch
- 
+
+# Check last so many references
+git reflog -10
+git checkout <<sha>>
+
+git log head..origin/master
+
 git stash
 git stash list
 git stash apply
