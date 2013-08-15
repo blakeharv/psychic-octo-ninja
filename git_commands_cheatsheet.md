@@ -33,10 +33,9 @@ git branch -m old_branch new_branch
 
 # Check last so many references
 git reflog -10
-git checkout <<sha>>
+git checkout 9c9ace82
 
-git log head..origin/master
-
+# Stash commands
 git stash
 git stash list
 git stash apply
