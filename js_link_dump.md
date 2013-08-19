@@ -44,3 +44,6 @@
 * Jenkins + JSTestDriver: http://cjohansen.no/en/javascript/javascript_continuous_integration_with_hudson_and_jstestdriver
 * Headless WebKit: http://phantomjs.org/
 * Headless browser: http://www.envjs.com/
+
+### .NET and JS
+* http://stackoverflow.com/questions/1016847/converting-net-datetime-to-json
