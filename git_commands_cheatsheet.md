@@ -12,6 +12,9 @@ git config --global user.email johndoe@example.com
 # Turn colors on
 git config --global color.ui true
 
+# 'git push' only pushes the current branch, not all of them
+git config --global push.default current
+
 # Checking out and Creating New Branches
 # Step 1
 git checkout master        # change head to master
