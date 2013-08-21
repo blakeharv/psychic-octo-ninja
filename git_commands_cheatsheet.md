@@ -64,6 +64,10 @@ git reset --soft HEAD^
 # Article on squashing commits:
 # http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
 
+# Search through your history
+git log -S<search term>
+git log -Saws_secret_key # did this repo ever have an aws_secret_key?
+
 
 # Unstage staged files
 git reset
