@@ -37,6 +37,7 @@ git branch -m old_branch new_branch
 # Check last so many references
 git reflog -10
 git checkout 9c9ace82
+# http://stackoverflow.com/questions/2364978/why-do-i-have-to-hit-q-at-the-end-of-git-log
 
 # Stash commands
 git stash
