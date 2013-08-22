@@ -1,3 +1,4 @@
+* https://code.google.com/p/jslibs/wiki/JavascriptTips
 * http://lucisferre.net/2012/08/19/three-useful-jquery-event-binding-tips/
 * JS organization in Rails: http://railsapps.github.io/rails-javascript-include-external.html
 * Thread on deep copying: https://github.com/jashkenas/underscore/issues/162
