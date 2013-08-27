@@ -1,3 +1,5 @@
+### Random Stuff
+
 * https://code.google.com/p/jslibs/wiki/JavascriptTips
 * http://lucisferre.net/2012/08/19/three-useful-jquery-event-binding-tips/
 * JS organization in Rails: http://railsapps.github.io/rails-javascript-include-external.html
@@ -8,6 +10,18 @@
 * http://stackoverflow.com/questions/11246/best-resources-to-learn-javascript
 * Getters and Setters - http://ejohn.org/blog/javascript-getters-and-setters/
 * http://bonsaiden.github.io/JavaScript-Garden/
+
+### Breakpoints
+
+* http://viget.com/inspire/managing-javascript-on-responsive-websites
+* https://github.com/ten1seven/jRespond
+* https://github.com/xoxco/breakpoints
+* https://github.com/stevenosloan/Sizrizr
+
+### Pub/Sub
+
+* https://github.com/cowboy/jquery-tiny-pubsub
+* http://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript
 
 
 ### JS Hashes (Associative Arrays)
