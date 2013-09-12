@@ -6,6 +6,7 @@
 * http://stackoverflow.com/questions/4459379/preview-an-image-before-it-is-uploaded
 * IE stuff: http://msdn.microsoft.com/en-us/library/ms532969(v=vs.85).aspx
 * IE stuff: http://forums.asp.net/t/1320559.aspx
+* http://jsfiddle.net/LvsYc/
 
 
 ### Random Stuff
