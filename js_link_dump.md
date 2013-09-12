@@ -1,3 +1,10 @@
+### File Uploading
+* http://www.dotnetobject.com/Thread-Uploading-file-with-Javascript-and-XMLHTTPRequest
+* http://igstan.ro/posts/2009-01-11-ajax-file-upload-with-pure-javascript.html
+* https://github.com/carrierwaveuploader/carrierwave
+* http://marc-bowes.com/2011/08/17/drag-n-drop-upload.html
+
+
 ### Random Stuff
 
 * https://code.google.com/p/jslibs/wiki/JavascriptTips
