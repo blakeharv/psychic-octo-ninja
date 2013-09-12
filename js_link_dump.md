@@ -3,6 +3,7 @@
 * http://igstan.ro/posts/2009-01-11-ajax-file-upload-with-pure-javascript.html
 * https://github.com/carrierwaveuploader/carrierwave
 * http://marc-bowes.com/2011/08/17/drag-n-drop-upload.html
+* http://stackoverflow.com/questions/4459379/preview-an-image-before-it-is-uploaded
 
 
 ### Random Stuff
