@@ -29,3 +29,51 @@ function IsPalindromeRecursion(str){
 }
 
 // http://ujjaini.wordpress.com/2013/07/17/checking-if-a-string-is-a-palindrome-using-javascript/
+
+
+// Iterative
+function factorial(num)
+{
+    // If the number is less than 0, reject it.
+    if (num < 0) {
+        return -1;
+    }
+    // If the number is 0, its factorial is 1.
+    else if (num == 0) {
+        return 1;
+    }
+    var tmp = num;
+    while (num-- > 2) {
+        tmp *= num;
+    }
+    return tmp;
+}
+
+var result = factorial(8);
+document.write(result);
+
+// Output: 4032
+
+// Recursive
+function factorial(num)
+{
+    // If the number is less than 0, reject it.
+    if (num < 0) {
+        return -1;
+    }
+    // If the number is 0, its factorial is 1.
+    else if (num == 0) {
+        return 1;
+    }
+    // Otherwise, call this recursive procedure again.
+    else {
+        return (num * factorial(num - 1));
+    }
+}
+
+var result = factorial(8);
+document.write(result);
+
+// http://msdn.microsoft.com/en-us/library/ie/wwbyhkx4(v=vs.94).aspx
+
+// Output: 40320
