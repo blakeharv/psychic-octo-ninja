@@ -1,4 +1,4 @@
-# How to Write JS
+# JS Module Patterns
 
 ```js
 // http://enterprisejquery.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/
