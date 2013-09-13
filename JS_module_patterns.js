@@ -1,6 +1,5 @@
-# JS Module Patterns
+// JS Module Patterns
 
-```js
 // http://enterprisejquery.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/
 
 //Object Literal declaring properties and methods
@@ -209,4 +208,4 @@ new anchorChanger();
 
 
 // http://www.kevlindev.com/tutorials/javascript/inheritance/
-```
+
