@@ -11,6 +11,7 @@
 
 ### Random Stuff
 
+* http://msdn.microsoft.com/en-us/library/ie/b9w25k6f(v=vs.94).aspx
 * https://code.google.com/p/jslibs/wiki/JavascriptTips
 * http://lucisferre.net/2012/08/19/three-useful-jquery-event-binding-tips/
 * JS organization in Rails: http://railsapps.github.io/rails-javascript-include-external.html
