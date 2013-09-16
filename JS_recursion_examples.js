@@ -77,3 +77,53 @@ document.write(result);
 // http://msdn.microsoft.com/en-us/library/ie/wwbyhkx4(v=vs.94).aspx
 
 // Output: 40320
+
+
+
+
+
+function traverse(thing, depth)
+{
+    if (typeof depth == 'number')
+        depth++;
+    else
+        depth = 1;
+
+    if (thing.child)
+        traverse(thing, depth);
+}
+
+
+function fac(n) {
+    if(n < 3)
+        return n;
+    return n * fac(n - 1);
+}
+// We want this one to break the recursion once its goes deeper than a given value. Let's code a wrapper:
+
+function wrapDepth(fn, max) {
+    var depth = 0
+    return function() {
+        if (++depth > max) 
+            throw "Too much recursion"
+        var out = fn.apply(null, [].slice.call(arguments, 0))
+        depth--;
+        return out;
+    }
+}
+// Create a wrapper with max depth = 20:
+
+fac = wrapDepth(fac, 20)
+// and test:
+
+ console.log(fac(10)) // 3628800
+ console.log(fac(100)) // Too much recursion
+
+
+
+
+
+
+
+
+
