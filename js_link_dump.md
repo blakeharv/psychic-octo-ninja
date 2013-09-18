@@ -1,4 +1,5 @@
 ### File Uploading
+* http://www.html5rocks.com/en/tutorials/file/dndfiles/
 * http://www.dotnetobject.com/Thread-Uploading-file-with-Javascript-and-XMLHTTPRequest
 * http://igstan.ro/posts/2009-01-11-ajax-file-upload-with-pure-javascript.html
 * https://github.com/carrierwaveuploader/carrierwave
