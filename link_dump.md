@@ -1,7 +1,12 @@
 # LINK DUMP
 
-* http://css-tricks.com/examples/WebKitScrollbars/
+### Vagrant Java / Solr / Tomcat / Play
+* http://blogs.atlassian.com/2013/03/instant-java-provisioning-with-vagrant-and-puppet-stash-one-click-install/
+* http://thinkoverit.com/installing-luceme-solr-with-tomcat-on-ubuntu/
+* http://gregsomers.com/blog/2013/07/30/install-apache-solr-44-on-ubuntu-1204-with-tomcat-7-and-mysql-data-import
 
+
+* http://css-tricks.com/examples/WebKitScrollbars/
 
 ### Packages for Sublime
 * themes - https://github.com/daylerees/colour-schemes
