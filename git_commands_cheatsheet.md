@@ -1,4 +1,4 @@
-# GIT Cheatsheet
+## GIT Cheatsheet
 
 ```sh
 # Public Key Stuff
