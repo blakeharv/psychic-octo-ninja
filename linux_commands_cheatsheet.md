@@ -1,6 +1,6 @@
 ###Linux Commands Cheatsheet
 
-```shell
+```sh
 
 # Nothing here yet
 
