@@ -20,13 +20,13 @@ git config --global push.default current
 git checkout master        # change head to master
 git pull origin master     # update local master with remote master
 # Step 2
-git branch newbranch       # create the branch
-git checkout newbranch     # switch to the branch
+git branch mynewbranch       # create the branch
+git checkout mynewbranch     # switch to the branch
 # OR
-git checkout -b newbranch  # create and switch in one command
+git checkout -b mynewbranch  # create and switch in one command
 # Step 3
-git push origin release-name  # push your new branch to the remote repository
-git branch --set-upstream release-name origin/release-name  #set the remote location
+git push origin mynewbranch  # push your new branch to the remote repository
+git branch --set-upstream mynewbranch origin/mynewbranch  #set the remote location
  
 # Push to production master branch from local development branch
 git push production development:master
