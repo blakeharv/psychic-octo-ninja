@@ -11,4 +11,9 @@ sudo nano /private/etc/hosts
 pbcopy < ~/.ssh/id_rsa.pub # copy pub key to clipboard
 ssh-add ~/.ssh/id_rsa      # copy pub key to current folder
 
+# Create new file (different flavors)
+echo '' > mynewfile
+printf '\n' > mynewfile
+touch mynewfile
+
 ```
