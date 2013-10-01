@@ -16,4 +16,7 @@ echo '' > mynewfile
 printf '\n' > mynewfile
 touch mynewfile
 
+# Create Directory
+mkdir mynewdirectory
+
 ```
