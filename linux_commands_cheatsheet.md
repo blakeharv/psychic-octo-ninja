@@ -16,6 +16,9 @@ echo '' > mynewfile
 printf '\n' > mynewfile
 touch mynewfile
 
+# Rename file
+mv oldfilename newfilename
+
 # Create Directory
 mkdir mynewdirectory
 
