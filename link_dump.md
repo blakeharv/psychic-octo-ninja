@@ -1,5 +1,17 @@
 # LINK DUMP
 
+### Scala
+* http://joelabrahamsson.com/programming/scala/
+* Test Helpers - http://xuwei-k.github.io/play-sxr/play-2.9.1-2.0.4/play-test/play/api/test/Helpers.scala.html
+* http://www.tzavellas.com/techblog/2010/09/20/catching-throwable-in-scala/
+* http://www.scala-lang.org/documentation/
+* Scala error handling - http://tersesystems.com/2012/12/27/error-handling-in-scala
+* http://danielwestheide.com/scala/neophytes.html
+* Specs2 - http://etorreborre.github.io/specs2/guide/org.specs2.guide.UserGuide.html#User+Guide
+* 
+
+
+
 ### Vagrant Java / Solr / Tomcat / Play
 * http://blogs.atlassian.com/2013/03/instant-java-provisioning-with-vagrant-and-puppet-stash-one-click-install/
 * http://thinkoverit.com/installing-luceme-solr-with-tomcat-on-ubuntu/
