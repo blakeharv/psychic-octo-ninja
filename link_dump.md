@@ -1,5 +1,9 @@
 # LINK DUMP
 
+### Play! Framework
+* Caching - http://www.toptal.com/scala/scaling-play-to-thousands-of-concurrent-requests
+
+
 ### Scala
 * http://joelabrahamsson.com/programming/scala/
 * Test Helpers - http://xuwei-k.github.io/play-sxr/play-2.9.1-2.0.4/play-test/play/api/test/Helpers.scala.html
