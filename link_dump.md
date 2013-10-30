@@ -12,7 +12,8 @@
 * Scala error handling - http://tersesystems.com/2012/12/27/error-handling-in-scala
 * http://danielwestheide.com/scala/neophytes.html
 * Specs2 - http://etorreborre.github.io/specs2/guide/org.specs2.guide.UserGuide.html#User+Guide
-* 
+* https://blog.stackmob.com/2013/01/resources-for-getting-started-with-functional-programming-and-scala/
+* https://github.com/lrytz/progfun-wiki/blob/gh-pages/CheatSheet.md
 
 
 
