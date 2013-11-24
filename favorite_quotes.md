@@ -37,7 +37,7 @@ Look’d up in perfect silence at the stars."
 ### Spiritual
 
 "How can there ever be a heaven when so many happy, good things make us hurt so very much?"  
-— Blake Harvey  
+— Blake  
 
 "Sauron's malice may have all sorts of awesome external effects — ghoulish ringwraiths, clouds of ash, skies of dark-winged ravens — but the true extent of his evil lies in the heart of every man."  
 — Ishaan Tharoor  
@@ -61,6 +61,10 @@ The abolition of religion as the illusory happiness of the people is the demand 
 Criticism has plucked the imaginary flowers on the chain not in order that man shall continue to bear that chain without fantasy or consolation, but so that he shall throw off the chain and pluck the living flower."  
 — Marx
 
+"Jesus taught and lived it.  
+The Church won’t admit it.  
+You and God don’t need an intermediary."  
+— Blake
 
 "Anyone who can appease a man's conscience can take his freedom away from him."  
 — The Grand Inquisitor from 'The Brothers Karamazov'
