@@ -68,3 +68,9 @@ You and God don’t need an intermediary."
 
 "Anyone who can appease a man's conscience can take his freedom away from him."  
 — The Grand Inquisitor from 'The Brothers Karamazov'
+
+"Then there is the very salient question of what the commandments do not say. Is it too modern to notice that there is nothing about the protection of children from cruelty, nothing about rape, nothing about slavery, and nothing about genocide?"  
+— Christopher Hitchens
+
+"You saps keep the faith. We'll just keep the money."  
+— Christopher Hitchens on the 'Pardoner's Tale'
