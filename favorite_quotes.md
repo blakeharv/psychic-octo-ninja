@@ -74,3 +74,9 @@ You and God don’t need an intermediary."
 
 "You saps keep the faith. We'll just keep the money."  
 — Christopher Hitchens on the 'Pardoner's Tale'
+
+"Why do people believe in Allah, Krishna, Buddha, or, for that matter Zeus and any number of other false deities? It’s simple really. It’s based on prayer and our desire to influence and control. Every single deity will answer your prayers in the exact same manner as God the Father.'
+
+"Yes, No, or Maybe."  
+— Blake
+
