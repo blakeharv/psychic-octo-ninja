@@ -1,6 +1,8 @@
 # LINK DUMP
 
 ### Play! Framework
+* http://www.playframework.com/documentation/2.2.x/ScalaJsonRequests
+* http://hayageek.com/jquery-ajax-post/
 * Cloudfront CDN - https://github.com/jamesward/play2-cloudfront
 * http://www.playframework.com/documentation/2.2.x/ScalaHome
 * Caching - http://www.toptal.com/scala/scaling-play-to-thousands-of-concurrent-requests
