@@ -23,7 +23,10 @@ git checkout -b mynewbranch  # create and switch in one command
 # Step 3
 git push origin mynewbranch  # push your new branch to the remote repository
 git branch --set-upstream mynewbranch origin/mynewbranch  #set the remote location
- 
+
+# Check out existing branch that doesn't have the upstream set
+git checkout -b thebranch --track origin/thebranch
+
 # Push to production master branch from local development branch
 git push production development:master
  
