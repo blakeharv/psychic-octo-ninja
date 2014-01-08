@@ -1,3 +1,11 @@
+### Backbone Validation
+
+* https://github.com/gfranko/Backbone.validateAll
+* http://coding.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/
+* http://www.integralist.co.uk/posts/backbone-validation/
+* http://rickharrison.github.io/validate.js/
+
+
 ### File Uploading
 * http://www.html5rocks.com/en/tutorials/file/dndfiles/
 * http://www.dotnetobject.com/Thread-Uploading-file-with-Javascript-and-XMLHTTPRequest
