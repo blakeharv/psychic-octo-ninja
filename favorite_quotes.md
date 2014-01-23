@@ -76,6 +76,6 @@ Criticism has plucked the imaginary flowers on the chain not in order that man s
 "If you found the truth, would you believe it?"  
 — Jack Ryan: Shadow Recruit
 
-"Why do people believe in Allah, Krishna, Buddha, or, for that matter Zeus and any number of other false deities? It’s simple really. Belief is based on prayer and our desire to influence and control. Every single deity will answer your prayers in the exact same manner as God the Father — "Yes, No, or Maybe."  
+"Why do people believe in Allah, Krishna, Buddha, or, for that matter Zeus and any number of other false deities? It’s simple really. Our beliefs are based on prayer and our desire to influence and control. Every single deity will answer your prayers in the exact same manner as God the Father — "Yes, No, or Maybe."  
 — Blake
 
