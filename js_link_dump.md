@@ -20,6 +20,7 @@
 
 ### Random Stuff
 
+* http://grahamhackingscala.blogspot.com/2012/01/javascript-and-scala-good-parts-and-bad.html
 * http://msdn.microsoft.com/en-us/library/ie/b9w25k6f(v=vs.94).aspx
 * https://code.google.com/p/jslibs/wiki/JavascriptTips
 * http://lucisferre.net/2012/08/19/three-useful-jquery-event-binding-tips/
