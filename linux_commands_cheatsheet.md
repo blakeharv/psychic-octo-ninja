@@ -22,4 +22,7 @@ mv oldfilename newfilename
 # Create Directory
 mkdir mynewdirectory
 
+# drop text file on terminal
+cat my-text-file.txt
+
 ```
