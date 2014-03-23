@@ -61,6 +61,9 @@ git commit --amend
 # Revert commit but keep files staged
 git reset --soft HEAD^
 
+# Add a new remote and set it up to track the master branch
+git remote add --track master myremotesname git@heroku.com:myrepo.git
+
 # Article on squashing commits:
 # http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
 
