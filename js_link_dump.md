@@ -1,3 +1,7 @@
+* http://tjvantoll.com/2012/06/30/creating-a-native-html5-datepicker-with-a-fallback-to-jquery-ui/
+
+
+
 ### Backbone Validation
 
 * https://github.com/gfranko/Backbone.validateAll
