@@ -6,7 +6,10 @@
 — Sir Charles Antony Richard Hoare
 
 "I just think things should work properly"  
-— Dyson 
+— Dyson
+
+"Shitty code with great tests is still just shitty code"  
+— Blake
 
 ### Art & Creativity
 
