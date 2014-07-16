@@ -1,5 +1,11 @@
 # LINK DUMP
 
+
+### AngularJS
+* http://toddmotto.com/stop-toggling-classes-with-js-use-behaviour-driven-dom-manipulation-with-data-states/
+
+
+
 ### Play! Framework
 * http://www.playframework.com/documentation/2.2.x/ScalaJsonRequests
 * http://hayageek.com/jquery-ajax-post/
