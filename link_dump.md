@@ -5,6 +5,7 @@
 * http://toddmotto.com/stop-toggling-classes-with-js-use-behaviour-driven-dom-manipulation-with-data-states/
 * Google considerations for developing Angular - https://www.youtube.com/watch?v=HCR7i5F5L8c
 * Angular Fundamentals - https://www.youtube.com/watch?v=i9MHigUZKEM
+* Angular SEO considerations - http://www.yearofmoo.com/2012/11/angularjs-and-seo.html
 
 
 
