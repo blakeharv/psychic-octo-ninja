@@ -7,6 +7,7 @@
 * Angular Fundamentals - https://www.youtube.com/watch?v=i9MHigUZKEM
 * Angular SEO considerations - http://www.yearofmoo.com/2012/11/angularjs-and-seo.html
 * Angular BEST practices - https://www.youtube.com/watch?v=ZhfUv0spHCY
+* 60 Angular Vids - https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7
 
 
 
