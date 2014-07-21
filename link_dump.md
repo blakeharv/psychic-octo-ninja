@@ -3,6 +3,7 @@
 
 ### AngularJS
 * http://toddmotto.com/stop-toggling-classes-with-js-use-behaviour-driven-dom-manipulation-with-data-states/
+* Google considerations for developing Angular - https://www.youtube.com/watch?v=HCR7i5F5L8c
 
 
 
