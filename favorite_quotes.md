@@ -76,8 +76,8 @@ Criticism has plucked the imaginary flowers on the chain not in order that man s
 "You saps keep the faith. We'll just keep the money."  
 — Christopher Hitchens on the 'Pardoner's Tale'
 
-"If you found the truth, would you believe it?"  
-— Jack Ryan: Shadow Recruit
+"You know there is no God right? You already figured out that it's all just a bunch of crap that's all made up to keep you from being who you are."  
+— Sister Mary Eunice
 
 "Why do people believe in Allah, Krishna, Buddha, or, for that matter Zeus or any number of other deities? It’s simple really. Beliefs are based on prayer and our desire to influence and control. Every single deity will answer your prayers in the exact same manner as God the Father — "Yes, No, or Maybe."  
 — Blake
