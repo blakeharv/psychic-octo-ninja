@@ -14,6 +14,7 @@
 ##### Angular Lazy Loading
 * http://www.slideshare.net/nirkaufman/angularjs-lazy-loading-techniques
 * http://ify.io/lazy-loading-in-angularjs/
+* http://www.simplygoodcode.com/2014/04/angularjs-getting-around-ngapp-limitations-with-ngmodule/
 * https://github.com/mikekidder/lazyLoadingDemo
 
 
