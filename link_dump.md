@@ -2,12 +2,19 @@
 
 
 ### AngularJS
+
+##### General Angular Links
 * http://toddmotto.com/stop-toggling-classes-with-js-use-behaviour-driven-dom-manipulation-with-data-states/
 * Google considerations for developing Angular (misko) - https://www.youtube.com/watch?v=HCR7i5F5L8c
 * Angular Fundamentals - https://www.youtube.com/watch?v=i9MHigUZKEM
 * Angular SEO considerations - http://www.yearofmoo.com/2012/11/angularjs-and-seo.html
 * Angular BEST practices (misko) - https://www.youtube.com/watch?v=ZhfUv0spHCY
 * 60 Angular Vids - https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7
+
+##### Angular Lazy Loading
+* http://www.slideshare.net/nirkaufman/angularjs-lazy-loading-techniques
+* http://ify.io/lazy-loading-in-angularjs/
+* https://github.com/mikekidder/lazyLoadingDemo
 
 
 
