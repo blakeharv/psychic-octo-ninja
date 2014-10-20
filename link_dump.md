@@ -17,6 +17,9 @@
 * http://www.simplygoodcode.com/2014/04/angularjs-getting-around-ngapp-limitations-with-ngmodule/
 * https://github.com/mikekidder/lazyLoadingDemo
 
+##### Angular Directives
+* http://joelhooks.com/blog/2014/02/11/lets-make-full-ass-angularjs-directives/
+
 
 
 ### Play! Framework
