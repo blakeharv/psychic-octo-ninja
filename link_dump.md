@@ -19,6 +19,7 @@
 
 ##### Angular Directives
 * http://joelhooks.com/blog/2014/02/11/lets-make-full-ass-angularjs-directives/
+* http://kirkbushell.me/when-to-use-directives-controllers-or-services-in-angular/
 
 
 
