@@ -4,6 +4,8 @@
 ### AngularJS
 
 ##### General Angular Links
+* http://www.sitepoint.com/understanding-angulars-apply-digest/
+* http://www.whitneyland.com/2013/02/why-does-angularjs-sometimes-use-single-braces-sometimes-double-braces-and-sometimes-no-braces.html
 * http://toddmotto.com/stop-toggling-classes-with-js-use-behaviour-driven-dom-manipulation-with-data-states/
 * Google considerations for developing Angular (misko) - https://www.youtube.com/watch?v=HCR7i5F5L8c
 * Angular Fundamentals - https://www.youtube.com/watch?v=i9MHigUZKEM
