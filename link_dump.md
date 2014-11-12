@@ -4,6 +4,8 @@
 ### AngularJS
 
 ##### General Angular Links
+* http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html
+* http://joelhooks.com/blog/2014/02/11/lets-make-full-ass-angularjs-directives/
 * http://www.sitepoint.com/understanding-angulars-apply-digest/
 * http://www.whitneyland.com/2013/02/why-does-angularjs-sometimes-use-single-braces-sometimes-double-braces-and-sometimes-no-braces.html
 * http://toddmotto.com/stop-toggling-classes-with-js-use-behaviour-driven-dom-manipulation-with-data-states/
