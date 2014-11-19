@@ -1,5 +1,8 @@
 # LINK DUMP
 
+* http://www.techhui.com/profiles/blogs/node-js-versus-rails-shootout
+
+
 
 ### AngularJS
 
