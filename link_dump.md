@@ -1,5 +1,13 @@
 # LINK DUMP
 
+#### Image Uploading
+* http://stackoverflow.com/questions/22167125/amazon-aws-s3-directory-structure-efficiency
+
+
+
+
+
+
 * http://www.techhui.com/profiles/blogs/node-js-versus-rails-shootout
 
 
