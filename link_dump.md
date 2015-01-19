@@ -2,6 +2,8 @@
 
 #### Image Uploading
 * http://stackoverflow.com/questions/22167125/amazon-aws-s3-directory-structure-efficiency
+* https://www.safaribooksonline.com/library/view/programming-amazon-ec2/9781449303617/ch04.html
+* http://stackoverflow.com/questions/16447366/need-assistance-choosing-a-image-management-gem
 
 
 
