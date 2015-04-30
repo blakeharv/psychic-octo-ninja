@@ -3,16 +3,13 @@
 # http://adit.io/posts/2013-08-16-five-useful-git-tips.html
 # http://net.tutsplus.com/tutorials/tools-and-tips/how-to-customize-your-command-prompt/
 
-# Load RVM into a shell session *as a function* for Ruby projects
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
-# MacPorts - http://www.macports.org/ (or alternately you can use Homebrew - http://brew.sh/)
-export PATH=/opt/local/bin:/opt/local/sbin:$PATH
-# Add bin path for vcprompt
-export PATH=~/bin:$PATH
 # Add Git Branch completion
-source $HOME/bin/.git-completion.bash
-# Project Aliases
-alias pml="cd $HOME/code/pm-locator"
+source $HOME/.bin/.git-completion.bash
+
+__git_complete g __git_main
+__git_complete gco _git_checkout
+__git_complete gm __git_merge
+__git_complete gp _git_pull
 
 # Colors
 txtblk='\e[0;30m' # Black - Regular  
@@ -49,8 +46,16 @@ bakcyn='\e[46m'   # Cyan
 bakwht='\e[47m'   # White  
 txtrst='\e[0m'    # Text Reset
 
-#Git
-alias g="git status"
+
+alias be="bundle exec"
+alias r="bundle exec rails server"
+alias rc="bundle exec rails console"
+
+
+
+# Nathan Sullin's Git completions
+alias g="git"
+alias gs="git status"
 alias ga="git add"
 alias gaa="git add ."
 alias gc="git commit -m"
@@ -61,7 +66,7 @@ alias gcob="git checkout -b"
 alias gm="git merge"
 alias gr="git rebase"
 alias gl="git log"
-alias gs="git show"
+alias gsh="git show"
 alias gd="git diff"
 alias gbl="git blame"
 alias gps="git push"
