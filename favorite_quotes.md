@@ -22,6 +22,10 @@
 "There are two men inside the artist: poet and craftsman. One is born a poet. One becomes a craftsman."  
 — Emile Zola
 
+"The artist is nothing without the gift,
+but the gift is nothing without work."  
+— Emile Zola
+
 "Without good taste you cannot make good food."  
 — Jiro Ono
 
