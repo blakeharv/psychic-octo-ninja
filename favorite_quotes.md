@@ -35,10 +35,11 @@ In the mystical moist night-air, and from time to time,
 Look’d up in perfect silence at the stars."  
 — Walt Whitman  
 
-### Spiritual
+"The mystery of life isn't a problem to solve, but a reality to experience."  
+— Frank Herbert, author of Dune
 
-"How can there ever be a heaven when so many happy, good things make us hurt so very much?"  
-— Blake  
+
+### Spiritual
 
 "Sauron's malice may have all sorts of awesome external effects — ghoulish ringwraiths, clouds of ash, skies of dark-winged ravens — but the true extent of his evil lies in the heart of every man."  
 — Ishaan Tharoor  
@@ -62,9 +63,6 @@ The abolition of religion as the illusory happiness of the people is the demand 
 Criticism has plucked the imaginary flowers on the chain not in order that man shall continue to bear that chain without fantasy or consolation, but so that he shall throw off the chain and pluck the living flower."  
 — Marx
 
-"The Church will never admit it, but you and God don’t need an intermediary."  
-— Blake
-
 "Anyone who can appease a man's conscience can take his freedom away from him."  
 — The Grand Inquisitor from 'The Brothers Karamazov'
 
@@ -80,5 +78,8 @@ Criticism has plucked the imaginary flowers on the chain not in order that man s
 "Why do people believe in Allah, Krishna, Buddha, or, for that matter Zeus or any number of other deities? It’s simple really. Beliefs are based on prayer and our desire to influence and control. Every single deity will answer your prayers in the exact same manner as God the Father — "Yes, No, or Maybe."  
 — Blake
 
-"The mystery of life isn't a problem to solve, but a reality to experience."  
-— Frank Herbert, author of Dune
+"How can there ever be a heaven when so many happy, good things make us hurt so very much?"  
+— Blake  
+
+"The Church will never admit it, but you and God don’t need an intermediary."  
+— Blake
