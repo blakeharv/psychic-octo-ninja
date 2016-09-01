@@ -1,8 +1,8 @@
 ### Node Streams and Async stuff
-http://caolan.github.io/async/docs.html#collections
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-https://github.com/substack/stream-handbook
-https://benramsey.com/blog/2008/05/206-partial-content-and-range-requests/
+* http://caolan.github.io/async/docs.html#collections
+* https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+* https://github.com/substack/stream-handbook
+* https://benramsey.com/blog/2008/05/206-partial-content-and-range-requests/
 
 
 ### Backbone Validation
