@@ -1,5 +1,8 @@
-* http://tjvantoll.com/2012/06/30/creating-a-native-html5-datepicker-with-a-fallback-to-jquery-ui/
-
+### Node Streams and Async stuff
+http://caolan.github.io/async/docs.html#collections
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+https://github.com/substack/stream-handbook
+https://benramsey.com/blog/2008/05/206-partial-content-and-range-requests/
 
 
 ### Backbone Validation
@@ -24,6 +27,7 @@
 
 ### Random Stuff
 
+* http://tjvantoll.com/2012/06/30/creating-a-native-html5-datepicker-with-a-fallback-to-jquery-ui/
 * http://grahamhackingscala.blogspot.com/2012/01/javascript-and-scala-good-parts-and-bad.html
 * http://msdn.microsoft.com/en-us/library/ie/b9w25k6f(v=vs.94).aspx
 * https://code.google.com/p/jslibs/wiki/JavascriptTips
