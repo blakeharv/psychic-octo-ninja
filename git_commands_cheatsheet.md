@@ -44,7 +44,7 @@ git stash list
 git stash apply
 git stash apply stash@{0}
 git stash drop stash@{0}
-More Stash: http://git-scm.com/book/en/Git-Tools-Stashing
+# More Stash: http://git-scm.com/book/en/Git-Tools-Stashing
  
 git pull
 git pull origin master
