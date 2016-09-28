@@ -8,7 +8,7 @@
 ### Art & Creativity
 
 "What I do is me, for that I came."  
-— Gerard Manley Hopkins  
+— Gerard Manley Hopkins, poet, Jesuit priest
 
 "My determination is just desire. I know that I’m not the best fighter in the world, I may not even be the toughest fighter. One thing I do know is, I want it more than anything else."  
 — Matt Brown  
