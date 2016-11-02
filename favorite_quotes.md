@@ -11,7 +11,10 @@
 — Gerard Manley Hopkins, poet, Jesuit priest
 
 "My determination is just desire. I know that I’m not the best fighter in the world, I may not even be the toughest fighter. One thing I do know is, I want it more than anything else."  
-— Matt Brown  
+— Matt Brown
+
+"It took me four years to paint like Raphael, but a lifetime to paint like a child."  
+— Pablo Picasso
 
 "There are two men inside the artist: poet and craftsman. One is born a poet. One becomes a craftsman."  
 — Emile Zola
