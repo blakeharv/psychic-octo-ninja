@@ -99,6 +99,10 @@ git push origin :myBranch
  
 # Delete local branch
 git branch -d the_local_branch
+
+# Merge to your branch using "theirs" to resolve merge conflict
+# while on your branch....
+git merge -X theirs master
  
 # Hide an edited file from GIT
 git update-index --assume-unchanged <file>
