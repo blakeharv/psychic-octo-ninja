@@ -79,7 +79,7 @@ Criticism has plucked the imaginary flowers on the chain not in order that man s
 — Sister Mary Eunice
 
 "Why do people believe in Allah, Krishna, Buddha, or, for that matter Zeus or any number of other deities? It’s simple really. Beliefs are based on prayer and our desire to influence and control. Every single deity will answer your prayers in the exact same manner as God the Father — "Yes, No, or Maybe."  
-— Blake
+— B
 
 "How can there ever be a heaven when so many happy, good things make us hurt so very much?"  
 — B  
