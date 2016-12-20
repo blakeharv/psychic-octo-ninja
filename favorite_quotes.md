@@ -90,6 +90,6 @@ Criticism has plucked the imaginary flowers on the chain not in order that man s
 "God does not play dice with the universe: He plays an ineffable game of His own devising, which might be compared, from the perspective of any of the other players [i.e. everybody], to being involved in an obscure and complex variant of poker in a pitch-dark room, with blank cards, for infinite stakes, with a Dealer who won't tell you the rules, and who smiles all the time."  
 — Terry Pratchett & Neil Gaiman, Good Omens
 
-"The only true sin is in squandering the brief, few moments you are given."  
+"The only true sin is in squandering the brief, few moments each of us are given."  
 — B
 
