@@ -1,4 +1,5 @@
-#Favorite Quotes
+Favorite Quotes
+===============
 
 ### Software Design
 
