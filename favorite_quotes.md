@@ -6,10 +6,10 @@ Favorite Quotes
 "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult."  
 — Sir Charles Antony Richard Hoare
 
-"“What we do in life echoes in eternity”  
-— Maximus Decimus Meridius
-
 ### Art & Creativity
+
+"What we do in life echoes in eternity"  
+— Maximus Decimus Meridius
 
 "What I do is me, for that I came."  
 — Gerard Manley Hopkins, poet, Jesuit priest
@@ -29,6 +29,9 @@ but the gift is nothing without work."
 
 "Without good taste you cannot make good food."  
 — Jiro Ono
+
+"Why y’know how you get to Carnegie Hall, don’t’cha? ... Practice."  
+— Lt. Aldo Raine
 
 ### Science
 
