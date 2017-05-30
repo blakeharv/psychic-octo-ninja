@@ -85,7 +85,7 @@ Criticism has plucked the imaginary flowers on the chain not in order that man s
 "You know there is no God right? You already figured out that it's all just a bunch of crap that's all made up to keep you from being who you are."  
 — Sister Mary Eunice
 
-"Why do people believe in Allah, Krishna, Buddha, or, for that matter Zeus or any number of other deities? It’s simple really. Beliefs are based on prayer and our desire to influence and control. Every single deity will answer your prayers in the exact same manner as God the Father — "Yes, No, or Maybe."  
+"Why do people believe in Allah, Krishna, Buddha, or, for that matter Zeus or any number of other deities? It’s simple really. Beliefs are based on prayer, and our innate human desire to influence and control. Every single deity will answer your prayers in the exact same manner as God the Father — "Yes, No, or Maybe."  
 — B
 
 "How can there ever be a heaven when so many happy, good things make us hurt so very much?"  
