@@ -100,3 +100,9 @@ Criticism has plucked the imaginary flowers on the chain not in order that man s
 "The only true sin is in squandering the brief, few moments of time each of us are given."  
 — B
 
+### Becoming
+
+"Let the past die. Kill it if you have to. That's the only way to become what you were meant to be."  
+— Kylo Ren, The Last Jedi
+
+
