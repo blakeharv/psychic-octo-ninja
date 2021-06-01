@@ -57,9 +57,6 @@ Look’d up in perfect silence at the stars."
 "Carry on my wayward son"  
 — Kansas  
 
-"Only the good die young"  
-— Billy Joel  
-
 "The unreal is more powerful than the real, because nothing is as perfect as you can imagine it. because its only intangible ideas, concepts, beliefs, fantasies that last. stone crumbles. wood rots. people, well, they die. but things as fragile as a thought, a dream, a legend, they can go on and on."  
 — Chuck Palahniuk
 
@@ -105,4 +102,13 @@ Criticism has plucked the imaginary flowers on the chain not in order that man s
 "Let the past die. Kill it if you have to. That's the only way to become what you were meant to be."  
 — Kylo Ren, The Last Jedi
 
+"And of course you can't become if only say what you would have done"  
+— Len, Steal My Sunshine
 
+_Alice:_ Would you tell me, please, which way I ought to go from here?
+_Cheshire Cat:_ That depends a good deal on where you want to get to.
+_Alice:_ I don't much care where.
+_Cheshire Cat:_ Then it doesn't much matter which way you go.
+_Alice:_ ...So long as I get somewhere.
+_Cheshire Cat:_ Oh, you're sure to do that, if only you walk long enough.  
+― Lewis Carroll, Alice in Wonderland
