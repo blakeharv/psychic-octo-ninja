@@ -112,3 +112,6 @@ _Cheshire Cat:_ Then it doesn't much matter which way you go.
 _Alice:_ ...So long as I get somewhere.  
 _Cheshire Cat:_ Oh, you're sure to do that, if only you walk long enough.  
 ― Lewis Carroll, Alice in Wonderland
+
+"Given enough time, you'll become the devil they always wanted you to be"  
+— Avanaro, Tiefling Sorcerer
