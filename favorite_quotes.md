@@ -119,6 +119,6 @@ _Cheshire Cat:_ Oh, you're sure to do that, if only you walk long enough.
 "Tranquility is a lie. There is only Passion.  
 Through Passion I gain Strength.  
 Through Strength I gain Power.  
-Through Power I gain Victory. 
+Through Power I gain Victory.  
 Through Victory my chains are Broken."  
 — Sorzus Syn
