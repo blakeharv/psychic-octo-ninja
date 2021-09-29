@@ -113,5 +113,12 @@ _Alice:_ ...So long as I get somewhere.
 _Cheshire Cat:_ Oh, you're sure to do that, if only you walk long enough.  
 ― Lewis Carroll, Alice in Wonderland
 
-"Given enough time, you'll become the monster they always wanted you to be"  
-— Avanaro, Tiefling Sorcerer
+"Given enough time, you'll become the monster they always wanted you to be."  
+— Avanaro de Malebranche, Tiefling Sorcerer
+
+"Tranquility is a lie. There is only Passion. 
+Through Passion I gain Strength. 
+Through Strength I gain Power. 
+Through Power I gain Victory.
+Through Victory my chains are Broken." 
+— Sorzus Syn
